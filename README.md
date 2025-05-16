@@ -19,4 +19,4 @@ En esta evaluación, he trabajado con la base de datos Sakila para demostrar mi 
 * **Expresiones de Tabla Comunes (`CTE`s):** Para mejorar la legibilidad y organización de consultas más complejas, he comenzado a utilizar CTEs. Estos me permitieron definir conjuntos de resultados temporales con nombre dentro de la consulta, facilitando la comprensión de la lógica paso a paso (ej. al calcular el total de alquileres por categoría).
 
 **Próximos Pasos:**
-Sigo en proceso de aprendizaje y mi objetivo es practicar mas mientras mejoro mi conocimiento en áreas como subconsultas correlacionadas y optimización de consultas para escenarios más complejos.
+Sigo en proceso de aprendizaje y mi objetivo es practicar mas, mientras mejoro mis conocimientos en áreas como subconsultas correlacionadas y optimización de consultas para escenarios más complejos.
